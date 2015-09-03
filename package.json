@@ -1,0 +1,14 @@
+{
+  "name": "ti-countries",
+  "description": "TI Country List",
+  "version": "1.0.0",
+  "author": "TI",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/thoughtindustries/ti-countries.git"
+  },
+  "devDependencies": {
+    "mocha": "*"
+  }
+}
