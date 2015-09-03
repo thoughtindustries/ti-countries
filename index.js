@@ -238,7 +238,7 @@ var countries = {
   'EH': 'Western Sahara',
   'YE': 'Yemen',
   'ZM': 'Zambia',
-  'ZW': 'Zimbabwe',
+  'ZW': 'Zimbabwe'
 };
 
 if (typeof module !== 'undefined' && module.exports) {
