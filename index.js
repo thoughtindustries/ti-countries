@@ -244,5 +244,5 @@ var countries = {
 if (typeof module !== 'undefined' && module.exports) {
   module.exports = countries;
 } else {
-  define('countries', ['exports'], function (__exports__) { __exports__['default'] = countries; });
+  define('ti-countries', ['exports'], function (__exports__) { __exports__['default'] = countries; });
 }

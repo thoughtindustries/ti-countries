@@ -1,6 +1,6 @@
 {
   "name": "ti-countries",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "TI Country List",
   "main": [ "index.js" ],
   "dependencies": {
