@@ -1,12 +1,15 @@
 {
   "name": "ti-countries",
   "description": "TI Country List",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "author": "TI",
   "license": "MIT",
   "repository": {
     "type": "git",
     "url": "git://github.com/thoughtindustries/ti-countries.git"
+  },
+  "scripts": {
+    "generate-typescript-declaration": "npx -p typescript tsc index.js --declaration --allowJs --emitDeclarationOnly"
   },
   "devDependencies": {
     "mocha": "*"
