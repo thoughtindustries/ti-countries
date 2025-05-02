@@ -125,7 +125,7 @@ var countries = {
   'LI': 'Liechtenstein',
   'LT': 'Lithuania',
   'LU': 'Luxembourg',
-  'MO': 'Macao',
+  'MO': 'Macao, China',
   'MK': 'Macedonia, the Former Yugoslav Republic of',
   'MG': 'Madagascar',
   'MW': 'Malawi',
